@@ -1,0 +1,1 @@
+g++ -std=c++20 ex2.cpp -o ex2.o && ./ex2.o
